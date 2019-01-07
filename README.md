@@ -1,3 +1,4 @@
-# TPccna
+                                   # TPccna #
 ![Permiereimg](/TPCCNA/IMG1.PNG)
-Adresse reseaux: 13.
+Adresse réseaux: 10.33.1.0/Adresse de broadcast: 10.33.1.255
+

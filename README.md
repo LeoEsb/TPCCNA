@@ -1,6 +1,6 @@
 <h1>TPCCNA</h1>
+<img src = "/TPCCNA/IMG1.PNG" title = "Premiereimg" alt = "Google logo">
 
-<p>![Permiereimg](/TPCCNA/IMG1.PNG)</p> 
 <p>Adresse réseaux: 10.33.1.0/Adresse de broadcast: 10.33.1.255</p>
 <p>![Deuxiemeimg](/TPCCNA/IMG2.PNG)</p>  
 <p>Adresse réseaux: 192.168.154.0/Adresse de broadcast: 192.168.154.255</p>
